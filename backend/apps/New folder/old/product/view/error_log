@@ -1,0 +1,194 @@
+[24-Sep-2015 00:09:36 Asia/Bangkok] PHP Fatal error:  Call to a member function GetRecord() on a non-object in /home/aquawams/public_html/kkd/admin/apps/real_estate/view/form_approve.php on line 6
+[24-Sep-2015 00:09:39 Asia/Bangkok] PHP Fatal error:  Call to a member function GetRecord() on a non-object in /home/aquawams/public_html/kkd/admin/apps/real_estate/view/form_approve.php on line 6
+[24-Sep-2015 00:09:40 Asia/Bangkok] PHP Fatal error:  Call to a member function GetRecord() on a non-object in /home/aquawams/public_html/kkd/admin/apps/real_estate/view/form_approve.php on line 6
+[24-Sep-2015 00:09:42 Asia/Bangkok] PHP Fatal error:  Call to a member function GetRecord() on a non-object in /home/aquawams/public_html/kkd/admin/apps/real_estate/view/form_approve.php on line 6
+[24-Sep-2015 00:09:42 Asia/Bangkok] PHP Fatal error:  Call to a member function GetRecord() on a non-object in /home/aquawams/public_html/kkd/admin/apps/real_estate/view/form_approve.php on line 6
+[24-Sep-2015 00:09:43 Asia/Bangkok] PHP Fatal error:  Call to a member function GetRecord() on a non-object in /home/aquawams/public_html/kkd/admin/apps/real_estate/view/form_approve.php on line 6
+[24-Sep-2015 00:09:44 Asia/Bangkok] PHP Fatal error:  Call to a member function GetRecord() on a non-object in /home/aquawams/public_html/kkd/admin/apps/real_estate/view/form_approve.php on line 6
+[24-Sep-2015 00:09:44 Asia/Bangkok] PHP Fatal error:  Call to a member function GetRecord() on a non-object in /home/aquawams/public_html/kkd/admin/apps/real_estate/view/form_approve.php on line 6
+[24-Sep-2015 00:09:45 Asia/Bangkok] PHP Fatal error:  Call to a member function GetRecord() on a non-object in /home/aquawams/public_html/kkd/admin/apps/real_estate/view/form_approve.php on line 6
+[24-Sep-2015 00:09:45 Asia/Bangkok] PHP Fatal error:  Call to a member function GetRecord() on a non-object in /home/aquawams/public_html/kkd/admin/apps/real_estate/view/form_approve.php on line 6
+[24-Sep-2015 00:09:54 Asia/Bangkok] PHP Fatal error:  Call to a member function GetRecord() on a non-object in /home/aquawams/public_html/kkd/admin/apps/real_estate/view/form_approve.php on line 6
+[24-Sep-2015 00:09:54 Asia/Bangkok] PHP Fatal error:  Call to a member function GetRecord() on a non-object in /home/aquawams/public_html/kkd/admin/apps/real_estate/view/form_approve.php on line 6
+[24-Sep-2015 00:09:58 Asia/Bangkok] PHP Fatal error:  Call to a member function GetRecord() on a non-object in /home/aquawams/public_html/kkd/admin/apps/real_estate/view/form_approve.php on line 6
+[24-Sep-2015 00:09:58 Asia/Bangkok] PHP Fatal error:  Call to a member function GetRecord() on a non-object in /home/aquawams/public_html/kkd/admin/apps/real_estate/view/form_approve.php on line 6
+[24-Sep-2015 00:09:59 Asia/Bangkok] PHP Fatal error:  Call to a member function GetRecord() on a non-object in /home/aquawams/public_html/kkd/admin/apps/real_estate/view/form_approve.php on line 6
+[24-Sep-2015 00:11:41 Asia/Bangkok] PHP Fatal error:  Call to a member function GetRecord() on a non-object in /home/aquawams/public_html/kkd/admin/apps/real_estate/view/form_approve.php on line 8
+[24-Sep-2015 00:12:21 Asia/Bangkok] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aquawams/public_html/kkd/libs/class/db.php on line 209
+[24-Sep-2015 00:12:21 Asia/Bangkok] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/aquawams/public_html/kkd/libs/class/db.php on line 209
+[24-Sep-2015 00:14:29 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in /home/aquawams/public_html/kkd/admin/apps/real_estate/view/form_approve.php on line 47
+[24-Sep-2015 00:15:50 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in /home/aquawams/public_html/kkd/admin/apps/real_estate/view/form_approve.php on line 47
+[24-Sep-2015 00:18:03 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in /home/aquawams/public_html/kkd/admin/apps/real_estate/view/form_approve.php on line 47
+[24-Sep-2015 00:21:22 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in /home/aquawams/public_html/kkd/admin/apps/real_estate/view/form_approve.php on line 47
+[24-Sep-2015 02:09:12 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aquawams/public_html/kkd/admin/apps/real_estate/view/form_edit_realestate.php on line 383
+[24-Sep-2015 02:09:12 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aquawams/public_html/kkd/admin/apps/real_estate/view/form_edit_realestate.php on line 384
+[24-Sep-2015 02:09:12 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aquawams/public_html/kkd/admin/apps/real_estate/view/form_edit_realestate.php on line 385
+[24-Sep-2015 02:09:12 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aquawams/public_html/kkd/admin/apps/real_estate/view/form_edit_realestate.php on line 387
+[24-Sep-2015 02:09:12 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aquawams/public_html/kkd/admin/apps/real_estate/view/form_edit_realestate.php on line 388
+[24-Sep-2015 02:09:12 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aquawams/public_html/kkd/admin/apps/real_estate/view/form_edit_realestate.php on line 389
+[24-Sep-2015 02:09:12 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aquawams/public_html/kkd/admin/apps/real_estate/view/form_edit_realestate.php on line 391
+[24-Sep-2015 02:09:12 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aquawams/public_html/kkd/admin/apps/real_estate/view/form_edit_realestate.php on line 392
+[24-Sep-2015 02:09:12 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aquawams/public_html/kkd/admin/apps/real_estate/view/form_edit_realestate.php on line 393
+[24-Sep-2015 02:09:12 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aquawams/public_html/kkd/admin/apps/real_estate/view/form_edit_realestate.php on line 395
+[24-Sep-2015 02:09:12 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aquawams/public_html/kkd/admin/apps/real_estate/view/form_edit_realestate.php on line 396
+[24-Sep-2015 02:09:12 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aquawams/public_html/kkd/admin/apps/real_estate/view/form_edit_realestate.php on line 397
+[24-Sep-2015 02:10:37 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aquawams/public_html/kkd/admin/apps/real_estate/view/form_edit_realestate.php on line 383
+[24-Sep-2015 02:10:37 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aquawams/public_html/kkd/admin/apps/real_estate/view/form_edit_realestate.php on line 384
+[24-Sep-2015 02:10:37 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aquawams/public_html/kkd/admin/apps/real_estate/view/form_edit_realestate.php on line 385
+[24-Sep-2015 02:10:37 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aquawams/public_html/kkd/admin/apps/real_estate/view/form_edit_realestate.php on line 387
+[24-Sep-2015 02:10:37 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aquawams/public_html/kkd/admin/apps/real_estate/view/form_edit_realestate.php on line 388
+[24-Sep-2015 02:10:37 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aquawams/public_html/kkd/admin/apps/real_estate/view/form_edit_realestate.php on line 389
+[24-Sep-2015 02:10:37 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aquawams/public_html/kkd/admin/apps/real_estate/view/form_edit_realestate.php on line 391
+[24-Sep-2015 02:10:37 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aquawams/public_html/kkd/admin/apps/real_estate/view/form_edit_realestate.php on line 392
+[24-Sep-2015 02:10:37 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aquawams/public_html/kkd/admin/apps/real_estate/view/form_edit_realestate.php on line 393
+[24-Sep-2015 02:10:37 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aquawams/public_html/kkd/admin/apps/real_estate/view/form_edit_realestate.php on line 395
+[24-Sep-2015 02:10:37 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aquawams/public_html/kkd/admin/apps/real_estate/view/form_edit_realestate.php on line 396
+[24-Sep-2015 02:10:37 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aquawams/public_html/kkd/admin/apps/real_estate/view/form_edit_realestate.php on line 397
+[24-Sep-2015 16:17:44 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in /home/aquawams/public_html/kkd/admin/apps/real_estate/view/form_approve.php on line 43
+[24-Sep-2015 16:19:22 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in /home/aquawams/public_html/kkd/admin/apps/real_estate/view/form_approve.php on line 43
+[24-Sep-2015 16:19:55 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in /home/aquawams/public_html/kkd/admin/apps/real_estate/view/form_approve.php on line 43
+[24-Sep-2015 16:20:23 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in /home/aquawams/public_html/kkd/admin/apps/real_estate/view/form_approve.php on line 43
+[24-Sep-2015 16:22:22 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in /home/aquawams/public_html/kkd/admin/apps/real_estate/view/form_approve.php on line 43
+[13-Nov-2015 18:05:03 Asia/Bangkok] PHP Warning:  Illegal string offset 'price' in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 375
+[13-Nov-2015 18:05:03 Asia/Bangkok] PHP Warning:  Illegal string offset 'discount' in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 376
+[13-Nov-2015 18:05:03 Asia/Bangkok] PHP Warning:  Illegal string offset 'discount_percentage' in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 377
+[13-Nov-2015 18:05:03 Asia/Bangkok] PHP Warning:  Illegal string offset 'commission' in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 378
+[13-Nov-2015 18:05:03 Asia/Bangkok] PHP Warning:  Illegal string offset 'commission_percentage' in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 379
+[13-Nov-2015 18:05:03 Asia/Bangkok] PHP Warning:  Illegal string offset 'salling_price' in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 380
+[13-Nov-2015 18:05:22 Asia/Bangkok] PHP Warning:  Illegal string offset 'price' in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 374
+[13-Nov-2015 18:05:22 Asia/Bangkok] PHP Warning:  Illegal string offset 'discount' in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 375
+[13-Nov-2015 18:05:22 Asia/Bangkok] PHP Warning:  Illegal string offset 'discount_percentage' in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 376
+[13-Nov-2015 18:05:22 Asia/Bangkok] PHP Warning:  Illegal string offset 'commission' in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 377
+[13-Nov-2015 18:05:22 Asia/Bangkok] PHP Warning:  Illegal string offset 'commission_percentage' in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 378
+[13-Nov-2015 18:05:22 Asia/Bangkok] PHP Warning:  Illegal string offset 'salling_price' in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 379
+[13-Nov-2015 18:05:22 Asia/Bangkok] PHP Warning:  Illegal string offset 'price' in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 374
+[13-Nov-2015 18:05:22 Asia/Bangkok] PHP Warning:  Illegal string offset 'discount' in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 375
+[13-Nov-2015 18:05:22 Asia/Bangkok] PHP Warning:  Illegal string offset 'discount_percentage' in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 376
+[13-Nov-2015 18:05:22 Asia/Bangkok] PHP Warning:  Illegal string offset 'commission' in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 377
+[13-Nov-2015 18:05:22 Asia/Bangkok] PHP Warning:  Illegal string offset 'commission_percentage' in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 378
+[13-Nov-2015 18:05:22 Asia/Bangkok] PHP Warning:  Illegal string offset 'salling_price' in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 379
+[13-Nov-2015 18:05:22 Asia/Bangkok] PHP Warning:  Illegal string offset 'price' in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 374
+[13-Nov-2015 18:05:22 Asia/Bangkok] PHP Warning:  Illegal string offset 'discount' in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 375
+[13-Nov-2015 18:05:22 Asia/Bangkok] PHP Warning:  Illegal string offset 'discount_percentage' in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 376
+[13-Nov-2015 18:05:22 Asia/Bangkok] PHP Warning:  Illegal string offset 'commission' in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 377
+[13-Nov-2015 18:05:22 Asia/Bangkok] PHP Warning:  Illegal string offset 'commission_percentage' in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 378
+[13-Nov-2015 18:05:22 Asia/Bangkok] PHP Warning:  Illegal string offset 'salling_price' in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 379
+[13-Nov-2015 18:05:22 Asia/Bangkok] PHP Warning:  Illegal string offset 'price' in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 374
+[13-Nov-2015 18:05:22 Asia/Bangkok] PHP Warning:  Illegal string offset 'discount' in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 375
+[13-Nov-2015 18:05:22 Asia/Bangkok] PHP Warning:  Illegal string offset 'discount_percentage' in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 376
+[13-Nov-2015 18:05:22 Asia/Bangkok] PHP Warning:  Illegal string offset 'commission' in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 377
+[13-Nov-2015 18:05:22 Asia/Bangkok] PHP Warning:  Illegal string offset 'commission_percentage' in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 378
+[13-Nov-2015 18:05:22 Asia/Bangkok] PHP Warning:  Illegal string offset 'salling_price' in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 379
+[13-Nov-2015 18:05:51 Asia/Bangkok] PHP Warning:  Illegal string offset 'commission' in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 377
+[13-Nov-2015 18:05:51 Asia/Bangkok] PHP Warning:  Illegal string offset 'commission_percentage' in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 378
+[13-Nov-2015 18:05:51 Asia/Bangkok] PHP Warning:  Illegal string offset 'salling_price' in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 379
+[13-Nov-2015 18:05:51 Asia/Bangkok] PHP Warning:  Illegal string offset 'commission' in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 377
+[13-Nov-2015 18:05:51 Asia/Bangkok] PHP Warning:  Illegal string offset 'commission_percentage' in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 378
+[13-Nov-2015 18:05:51 Asia/Bangkok] PHP Warning:  Illegal string offset 'salling_price' in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 379
+[13-Nov-2015 18:05:51 Asia/Bangkok] PHP Warning:  Illegal string offset 'commission' in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 377
+[13-Nov-2015 18:05:51 Asia/Bangkok] PHP Warning:  Illegal string offset 'commission_percentage' in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 378
+[13-Nov-2015 18:05:51 Asia/Bangkok] PHP Warning:  Illegal string offset 'salling_price' in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 379
+[13-Nov-2015 18:05:51 Asia/Bangkok] PHP Warning:  Illegal string offset 'commission' in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 377
+[13-Nov-2015 18:05:51 Asia/Bangkok] PHP Warning:  Illegal string offset 'commission_percentage' in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 378
+[13-Nov-2015 18:05:51 Asia/Bangkok] PHP Warning:  Illegal string offset 'salling_price' in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 379
+[13-Nov-2015 18:14:14 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 371
+[13-Nov-2015 18:19:39 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 386
+[13-Nov-2015 18:20:12 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 386
+[13-Nov-2015 18:21:09 Asia/Bangkok] PHP Warning:  Illegal string offset 'price' in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 388
+[13-Nov-2015 18:21:09 Asia/Bangkok] PHP Warning:  Illegal string offset 'price' in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 388
+[13-Nov-2015 18:21:09 Asia/Bangkok] PHP Warning:  Illegal string offset 'price' in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 388
+[13-Nov-2015 18:21:09 Asia/Bangkok] PHP Warning:  Illegal string offset 'price' in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 388
+[13-Nov-2015 18:24:10 Asia/Bangkok] PHP Warning:  Illegal string offset 'price' in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 388
+[13-Nov-2015 18:24:10 Asia/Bangkok] PHP Warning:  Illegal string offset 'price' in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 388
+[13-Nov-2015 18:24:10 Asia/Bangkok] PHP Warning:  Illegal string offset 'price' in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 388
+[13-Nov-2015 18:24:10 Asia/Bangkok] PHP Warning:  Illegal string offset 'price' in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 388
+[13-Nov-2015 18:24:10 Asia/Bangkok] PHP Warning:  Illegal string offset 'price' in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 390
+[13-Nov-2015 18:24:39 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 386
+[13-Nov-2015 18:24:58 Asia/Bangkok] PHP Warning:  Illegal string offset 'price' in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 390
+[13-Nov-2015 18:25:21 Asia/Bangkok] PHP Warning:  Illegal string offset 'price' in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 390
+[13-Nov-2015 18:25:42 Asia/Bangkok] PHP Warning:  Illegal string offset 'price' in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 390
+[13-Nov-2015 18:29:26 Asia/Bangkok] PHP Warning:  Illegal string offset 'price' in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 373
+[13-Nov-2015 18:29:26 Asia/Bangkok] PHP Warning:  Illegal string offset 'price' in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 373
+[13-Nov-2015 18:29:26 Asia/Bangkok] PHP Warning:  Illegal string offset 'price' in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 373
+[13-Nov-2015 18:29:26 Asia/Bangkok] PHP Warning:  Illegal string offset 'price' in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 373
+[13-Nov-2015 18:30:51 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 371
+[13-Nov-2015 18:31:35 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 373
+[13-Nov-2015 18:31:35 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 373
+[13-Nov-2015 18:31:35 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 373
+[13-Nov-2015 18:31:35 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 373
+[13-Nov-2015 18:31:35 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 373
+[13-Nov-2015 18:31:35 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 373
+[13-Nov-2015 18:32:00 Asia/Bangkok] PHP Warning:  Illegal string offset 'price' in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 373
+[13-Nov-2015 18:32:00 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 373
+[13-Nov-2015 18:32:00 Asia/Bangkok] PHP Warning:  Illegal string offset 'price' in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 373
+[13-Nov-2015 18:32:00 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 373
+[13-Nov-2015 18:32:00 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 373
+[13-Nov-2015 18:32:00 Asia/Bangkok] PHP Warning:  Illegal string offset 'price' in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 373
+[13-Nov-2015 18:32:00 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 373
+[13-Nov-2015 18:32:00 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 373
+[13-Nov-2015 18:32:00 Asia/Bangkok] PHP Warning:  Illegal string offset 'price' in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 373
+[13-Nov-2015 18:32:00 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 373
+[13-Nov-2015 18:32:17 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 373
+[13-Nov-2015 18:32:17 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 373
+[13-Nov-2015 18:32:17 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 373
+[13-Nov-2015 18:32:17 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 373
+[13-Nov-2015 18:32:17 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 373
+[13-Nov-2015 18:32:17 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 373
+[14-Nov-2015 13:00:32 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 799
+[14-Nov-2015 13:00:32 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 800
+[14-Nov-2015 13:00:32 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 801
+[14-Nov-2015 13:00:32 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 802
+[14-Nov-2015 13:00:32 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 803
+[14-Nov-2015 13:00:32 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 804
+[14-Nov-2015 13:00:32 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 805
+[14-Nov-2015 13:01:59 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 799
+[14-Nov-2015 13:01:59 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 800
+[14-Nov-2015 13:01:59 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 801
+[14-Nov-2015 13:01:59 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 802
+[14-Nov-2015 13:01:59 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 803
+[14-Nov-2015 13:01:59 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 804
+[14-Nov-2015 13:01:59 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 805
+[14-Nov-2015 13:04:40 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 799
+[14-Nov-2015 13:04:40 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 800
+[14-Nov-2015 13:04:40 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 801
+[14-Nov-2015 13:04:40 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 802
+[14-Nov-2015 13:04:40 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 803
+[14-Nov-2015 13:04:40 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 804
+[14-Nov-2015 13:04:40 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 805
+[14-Nov-2015 19:29:00 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 799
+[14-Nov-2015 19:29:00 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 800
+[14-Nov-2015 19:29:00 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 801
+[14-Nov-2015 19:29:00 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 802
+[14-Nov-2015 19:29:00 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 803
+[14-Nov-2015 19:29:00 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 804
+[14-Nov-2015 19:29:00 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 805
+[14-Nov-2015 19:29:36 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 799
+[14-Nov-2015 19:29:36 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 800
+[14-Nov-2015 19:29:36 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 801
+[14-Nov-2015 19:29:36 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 802
+[14-Nov-2015 19:29:36 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 803
+[14-Nov-2015 19:29:36 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 804
+[14-Nov-2015 19:29:36 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 805
+[15-Nov-2015 09:36:31 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 799
+[15-Nov-2015 09:36:31 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 800
+[15-Nov-2015 09:36:31 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 801
+[15-Nov-2015 09:36:31 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 802
+[15-Nov-2015 09:36:31 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 803
+[15-Nov-2015 09:36:31 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 804
+[15-Nov-2015 09:36:31 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 805
+[15-Nov-2015 12:10:00 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in /home/aquawams/public_html/edguru/admin/apps/product/view/form_approve.php on line 43
+[18-Nov-2015 10:15:32 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 799
+[18-Nov-2015 10:15:32 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 800
+[18-Nov-2015 10:15:32 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 801
+[18-Nov-2015 10:15:32 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 802
+[18-Nov-2015 10:15:32 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 803
+[18-Nov-2015 10:15:32 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 804
+[18-Nov-2015 10:15:32 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 805
+[22-Nov-2015 21:44:54 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 160
+[22-Nov-2015 21:45:10 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 160
+[24-Nov-2015 14:56:01 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 160
+[24-Nov-2015 21:23:55 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 160
+[24-Nov-2015 21:29:39 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 160
+[26-Nov-2015 21:26:02 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in /home/aquawams/public_html/edguru/admin/apps/product/view/form_edit_product.php on line 160
+[04-Dec-2015 00:28:00 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in /home/aquawams/public_html/edguru/admin/apps/product/view/form_approve.php on line 43
+[22-Dec-2015 10:34:42 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in /home/aquawams/public_html/edguru/admin/apps/product/view/form_approve.php on line 43

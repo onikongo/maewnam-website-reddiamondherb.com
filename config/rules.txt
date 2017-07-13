@@ -1,0 +1,35 @@
+
+user status
+	0 = Inactive
+	1 = Activated
+	2 = Lock - Onhold
+	3 = Importatnt (Do not Delete)
+	
+group status
+	0 = Inactive
+	1 = Active
+	2 = Lock - Whold Group
+	3 = Cannot Delete
+	
+	
+Pages Status
+	0 = New
+	1 = Publish
+	
+Content Status
+	0 = Don't Shwo 
+	1 = SHow
+	
+	
+PHP Session
+
+	['admin_mode'] = Admin Status(Boolean)
+	['debug_mode'] = Error Detechtion(Boolean)
+	['auth']['user_id'] = User ID
+	['auth']['username'] = User Name
+	['auth']['group_id'] = Group ID
+	['auth']['groupname'] = Group Name	
+	
+
+
+

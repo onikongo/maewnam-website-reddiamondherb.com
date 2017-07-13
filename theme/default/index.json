@@ -1,0 +1,16 @@
+{
+	"name" : "Default",
+	"path" : "theme/default/",
+	"files" : [
+		"css/bootstrap.min.css",
+		"css/bootstrap-theme.min.css",
+		"css/jquery-ui-1.10.4.custom.min.css",
+		"css/jquery.dataTables.css",
+		"css/jquery.fancybox.css",
+		"css/hover-min.css",
+		"css/base.css",
+		"css/site.css",
+		"css/font-awesome.css",
+		"css/font-awesome.min.css"
+	]
+}

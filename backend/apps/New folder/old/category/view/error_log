@@ -1,0 +1,16 @@
+[12-Oct-2015 15:33:24 Asia/Bangkok] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aquawams/public_html/edguru/admin/apps/category/view/form_add_category.php on line 88
+[12-Oct-2015 15:33:29 Asia/Bangkok] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aquawams/public_html/edguru/admin/apps/category/view/form_add_category.php on line 80
+[12-Oct-2015 15:33:30 Asia/Bangkok] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aquawams/public_html/edguru/admin/apps/category/view/form_add_category.php on line 81
+[12-Oct-2015 15:33:41 Asia/Bangkok] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aquawams/public_html/edguru/admin/apps/category/view/form_add_category.php on line 78
+[12-Oct-2015 15:33:41 Asia/Bangkok] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aquawams/public_html/edguru/admin/apps/category/view/form_add_category.php on line 80
+[12-Oct-2015 15:33:42 Asia/Bangkok] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aquawams/public_html/edguru/admin/apps/category/view/form_add_category.php on line 80
+[12-Oct-2015 15:33:59 Asia/Bangkok] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aquawams/public_html/edguru/admin/apps/category/view/form_add_category.php on line 80
+[12-Oct-2015 17:32:57 Asia/Bangkok] PHP Warning:  Illegal string offset 'main' in /home/aquawams/public_html/edguru/admin/apps/category/view/form_edit_category.php on line 131
+[12-Oct-2015 17:32:57 Asia/Bangkok] PHP Warning:  Illegal string offset 'main' in /home/aquawams/public_html/edguru/admin/apps/category/view/form_edit_category.php on line 131
+[12-Oct-2015 17:33:28 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in /home/aquawams/public_html/edguru/admin/apps/category/view/form_edit_category.php on line 129
+[12-Oct-2015 17:35:14 Asia/Bangkok] PHP Warning:  Illegal string offset 'main' in /home/aquawams/public_html/edguru/admin/apps/category/view/form_edit_category.php on line 131
+[12-Oct-2015 17:35:14 Asia/Bangkok] PHP Warning:  Illegal string offset 'main' in /home/aquawams/public_html/edguru/admin/apps/category/view/form_edit_category.php on line 131
+[12-Oct-2015 17:35:44 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in /home/aquawams/public_html/edguru/admin/apps/category/view/form_edit_category.php on line 129
+[12-Oct-2015 17:36:20 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in /home/aquawams/public_html/edguru/admin/apps/category/view/form_edit_category.php on line 129
+[12-Oct-2015 17:37:29 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in /home/aquawams/public_html/edguru/admin/apps/category/view/form_edit_category.php on line 129
+[12-Oct-2015 17:42:58 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in /home/aquawams/public_html/edguru/admin/apps/category/view/form_edit_category.php on line 129

@@ -1,0 +1,73 @@
+[23-Sep-2015 18:23:10 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in /home/aquawams/public_html/kkd/admin/apps/real_estate/xhr/action-add-realestate.php on line 34
+[23-Sep-2015 18:23:10 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in /home/aquawams/public_html/kkd/admin/apps/real_estate/xhr/action-add-realestate.php on line 41
+[23-Sep-2015 18:23:10 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in /home/aquawams/public_html/kkd/admin/apps/real_estate/xhr/action-add-realestate.php on line 48
+[23-Sep-2015 18:23:10 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in /home/aquawams/public_html/kkd/admin/apps/real_estate/xhr/action-add-realestate.php on line 55
+[23-Sep-2015 18:23:11 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in /home/aquawams/public_html/kkd/admin/apps/real_estate/xhr/action-add-realestate.php on line 130
+[23-Sep-2015 18:23:47 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in /home/aquawams/public_html/kkd/admin/apps/real_estate/xhr/action-add-realestate.php on line 130
+[24-Sep-2015 10:06:19 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in /home/aquawams/public_html/kkd/admin/apps/real_estate/xhr/action-add-realestate.php on line 130
+[24-Sep-2015 15:34:52 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in /home/aquawams/public_html/kkd/admin/apps/real_estate/xhr/action-add-realestate.php on line 34
+[24-Sep-2015 15:34:52 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in /home/aquawams/public_html/kkd/admin/apps/real_estate/xhr/action-add-realestate.php on line 41
+[24-Sep-2015 15:34:52 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in /home/aquawams/public_html/kkd/admin/apps/real_estate/xhr/action-add-realestate.php on line 48
+[24-Sep-2015 15:34:52 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in /home/aquawams/public_html/kkd/admin/apps/real_estate/xhr/action-add-realestate.php on line 55
+[24-Sep-2015 15:34:52 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in /home/aquawams/public_html/kkd/admin/apps/real_estate/xhr/action-add-realestate.php on line 130
+[24-Sep-2015 15:35:19 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in /home/aquawams/public_html/kkd/admin/apps/real_estate/xhr/action-edit-realestate.php on line 25
+[24-Sep-2015 15:35:19 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in /home/aquawams/public_html/kkd/admin/apps/real_estate/xhr/action-edit-realestate.php on line 32
+[24-Sep-2015 15:35:19 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in /home/aquawams/public_html/kkd/admin/apps/real_estate/xhr/action-edit-realestate.php on line 39
+[24-Sep-2015 15:35:19 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in /home/aquawams/public_html/kkd/admin/apps/real_estate/xhr/action-edit-realestate.php on line 46
+[24-Sep-2015 15:35:19 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in /home/aquawams/public_html/kkd/admin/apps/real_estate/xhr/action-edit-realestate.php on line 110
+[24-Sep-2015 15:36:35 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in /home/aquawams/public_html/kkd/admin/apps/real_estate/xhr/action-edit-realestate.php on line 25
+[24-Sep-2015 15:36:35 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in /home/aquawams/public_html/kkd/admin/apps/real_estate/xhr/action-edit-realestate.php on line 32
+[24-Sep-2015 15:36:35 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in /home/aquawams/public_html/kkd/admin/apps/real_estate/xhr/action-edit-realestate.php on line 39
+[24-Sep-2015 15:36:35 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in /home/aquawams/public_html/kkd/admin/apps/real_estate/xhr/action-edit-realestate.php on line 46
+[24-Sep-2015 15:36:35 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in /home/aquawams/public_html/kkd/admin/apps/real_estate/xhr/action-edit-realestate.php on line 110
+[24-Sep-2015 15:46:01 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in /home/aquawams/public_html/kkd/admin/apps/real_estate/xhr/action-edit-realestate.php on line 25
+[24-Sep-2015 15:46:01 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in /home/aquawams/public_html/kkd/admin/apps/real_estate/xhr/action-edit-realestate.php on line 32
+[24-Sep-2015 15:46:01 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in /home/aquawams/public_html/kkd/admin/apps/real_estate/xhr/action-edit-realestate.php on line 39
+[24-Sep-2015 15:46:01 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in /home/aquawams/public_html/kkd/admin/apps/real_estate/xhr/action-edit-realestate.php on line 46
+[13-Oct-2015 14:57:49 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in /home/aquawams/public_html/edguru/admin/apps/product/xhr/action-add-product.php on line 175
+[15-Oct-2015 15:37:27 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/aquawams/public_html/edguru/admin/apps/product/xhr/action-edit-product.php on line 91
+[15-Oct-2015 15:37:27 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/aquawams/public_html/edguru/admin/apps/product/xhr/action-edit-product.php on line 91
+[15-Oct-2015 15:37:27 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/aquawams/public_html/edguru/admin/apps/product/xhr/action-edit-product.php on line 91
+[15-Oct-2015 15:37:38 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/aquawams/public_html/edguru/admin/apps/product/xhr/action-edit-product.php on line 91
+[15-Oct-2015 15:37:38 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/aquawams/public_html/edguru/admin/apps/product/xhr/action-edit-product.php on line 91
+[15-Oct-2015 15:37:38 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/aquawams/public_html/edguru/admin/apps/product/xhr/action-edit-product.php on line 91
+[15-Oct-2015 15:37:38 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/aquawams/public_html/edguru/admin/apps/product/xhr/action-edit-product.php on line 91
+[15-Oct-2015 15:37:38 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/aquawams/public_html/edguru/admin/apps/product/xhr/action-edit-product.php on line 91
+[15-Oct-2015 15:41:35 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/aquawams/public_html/edguru/admin/apps/product/xhr/action-edit-product.php on line 91
+[15-Oct-2015 15:41:35 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/aquawams/public_html/edguru/admin/apps/product/xhr/action-edit-product.php on line 91
+[12-Nov-2015 11:21:20 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/aquawams/public_html/edguru/admin/apps/product/xhr/action-edit-product.php on line 91
+[12-Nov-2015 11:22:09 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/aquawams/public_html/edguru/admin/apps/product/xhr/action-edit-product.php on line 91
+[14-Nov-2015 13:00:10 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/aquawams/public_html/edguru/admin/apps/product/xhr/action-edit-product.php on line 91
+[14-Nov-2015 13:01:06 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/aquawams/public_html/edguru/admin/apps/product/xhr/action-edit-product.php on line 91
+[14-Nov-2015 13:03:01 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/aquawams/public_html/edguru/admin/apps/product/xhr/action-edit-product.php on line 91
+[14-Nov-2015 13:03:21 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/aquawams/public_html/edguru/admin/apps/product/xhr/action-edit-product.php on line 91
+[14-Nov-2015 13:05:50 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/aquawams/public_html/edguru/admin/apps/product/xhr/action-edit-product.php on line 91
+[14-Nov-2015 13:05:50 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/aquawams/public_html/edguru/admin/apps/product/xhr/action-edit-product.php on line 91
+[14-Nov-2015 19:30:04 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/aquawams/public_html/edguru/admin/apps/product/xhr/action-edit-product.php on line 91
+[14-Nov-2015 19:30:05 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/aquawams/public_html/edguru/admin/apps/product/xhr/action-edit-product.php on line 91
+[14-Nov-2015 19:30:06 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/aquawams/public_html/edguru/admin/apps/product/xhr/action-edit-product.php on line 91
+[14-Nov-2015 19:30:07 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/aquawams/public_html/edguru/admin/apps/product/xhr/action-edit-product.php on line 91
+[14-Nov-2015 19:30:07 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/aquawams/public_html/edguru/admin/apps/product/xhr/action-edit-product.php on line 91
+[14-Nov-2015 19:30:08 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/aquawams/public_html/edguru/admin/apps/product/xhr/action-edit-product.php on line 91
+[17-Nov-2015 10:48:00 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/aquawams/public_html/edguru/admin/apps/product/xhr/action-edit-product.php on line 91
+[17-Nov-2015 10:48:02 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/aquawams/public_html/edguru/admin/apps/product/xhr/action-edit-product.php on line 91
+[17-Nov-2015 10:48:18 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/aquawams/public_html/edguru/admin/apps/product/xhr/action-edit-product.php on line 91
+[17-Nov-2015 10:48:27 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/aquawams/public_html/edguru/admin/apps/product/xhr/action-edit-product.php on line 91
+[17-Nov-2015 10:49:08 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/aquawams/public_html/edguru/admin/apps/product/xhr/action-edit-product.php on line 91
+[17-Nov-2015 10:49:08 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/aquawams/public_html/edguru/admin/apps/product/xhr/action-edit-product.php on line 91
+[17-Nov-2015 10:49:16 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/aquawams/public_html/edguru/admin/apps/product/xhr/action-edit-product.php on line 91
+[17-Nov-2015 10:49:16 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/aquawams/public_html/edguru/admin/apps/product/xhr/action-edit-product.php on line 91
+[17-Nov-2015 10:49:26 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/aquawams/public_html/edguru/admin/apps/product/xhr/action-edit-product.php on line 91
+[17-Nov-2015 10:49:26 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/aquawams/public_html/edguru/admin/apps/product/xhr/action-edit-product.php on line 91
+[17-Nov-2015 10:49:33 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/aquawams/public_html/edguru/admin/apps/product/xhr/action-edit-product.php on line 91
+[17-Nov-2015 10:49:33 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/aquawams/public_html/edguru/admin/apps/product/xhr/action-edit-product.php on line 91
+[17-Nov-2015 10:49:40 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/aquawams/public_html/edguru/admin/apps/product/xhr/action-edit-product.php on line 91
+[17-Nov-2015 10:49:40 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/aquawams/public_html/edguru/admin/apps/product/xhr/action-edit-product.php on line 91
+[18-Nov-2015 10:15:45 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/aquawams/public_html/edguru/admin/apps/product/xhr/action-edit-product.php on line 91
+[18-Nov-2015 10:15:46 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/aquawams/public_html/edguru/admin/apps/product/xhr/action-edit-product.php on line 91
+[18-Nov-2015 10:15:49 Asia/Bangkok] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/aquawams/public_html/edguru/admin/apps/product/xhr/action-edit-product.php on line 91
+[19-Nov-2015 00:25:15 Asia/Bangkok] PHP Warning:  Invalid argument supplied for foreach() in /home/aquawams/public_html/edguru/admin/apps/product/xhr/action-add-product.php on line 148
+[19-Dec-2015 19:00:11 Asia/Bangkok] PHP Warning:  Illegal string offset 'branch' in /home/aquawams/public_html/edguru/admin/apps/product/xhr/action-edit-product.php on line 74
+[19-Dec-2015 19:00:11 Asia/Bangkok] PHP Warning:  Illegal string offset 'start' in /home/aquawams/public_html/edguru/admin/apps/product/xhr/action-edit-product.php on line 75
+[19-Dec-2015 19:00:11 Asia/Bangkok] PHP Warning:  Illegal string offset 'end' in /home/aquawams/public_html/edguru/admin/apps/product/xhr/action-edit-product.php on line 76
+[19-Dec-2015 19:00:11 Asia/Bangkok] PHP Warning:  Illegal string offset 'seat' in /home/aquawams/public_html/edguru/admin/apps/product/xhr/action-edit-product.php on line 77

@@ -1,0 +1,19 @@
+{
+	"version" : "1.0",
+	"updated" : "01/07/2014",
+	"roles" : [
+		{"name" : "con","detail" : "Access to Console"},
+		{"name" : "web","detail" : "Website Edtior"},
+		{"name" : "news","detail" : "News Management"},
+		{"name" : "prod","detail" : "Product Management"}
+	],
+	"define" : {
+		"title" : "Reddiamond : สมุนไพรเปล้าตะวัน",
+		"description" : "สมุนไพรตราเพชรแดงเป็นผลิตภัณฑ์ยาขับลมที่ทำจากสมุนไพรเปล้าตะวันเป็นวัตถุดิบหลัก เหมาะสำหรับคนที่มีปัญหาเกี่ยวกับระบบทางเดินอาหาร เรื้อรัง ทานดีแล้วบอกต่อ",
+		"keyword" : "สมุนไพรเปล้าตะวัน,โรคกรดไหลย้อน,โรคกระเพาะ,ริดสีดวงทวาร,เพชรแดง,reddiamond,โรคภูมิแพ้,โรคหัวใจ,เบาหวาน,ความดันสูง",
+		"page" : 1,
+		"language" : "en",
+		"author" : "Maewnam Network Solutions Co., Ltd.",
+		"date_format" : "d/m/Y H:i:s"
+	}
+}

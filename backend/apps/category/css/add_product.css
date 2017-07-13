@@ -1,0 +1,15 @@
+@charset "utf-8";
+/* CSS Document */
+.box_product
+{
+	width:600px; margin:600px; border:1px solid #CCC; border-radius:5px; padding:10px; display:none; position:absolute;
+	margin-left:-300px; margin-top:-300px; left:50%; top:50%;
+}
+input[type="text"]
+{
+	width:250px; height:35px; border:1px solid #CCC; border-radius:5px; padding-left:5px; padding-right:5px;
+}
+textarea
+{
+	width:100%; height:100px; border:1px solid #CCC; border-radius:5px;padding-left:5px; padding-right:5px;
+}

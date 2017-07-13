@@ -1,0 +1,48 @@
+@font-face {
+    font-family: FontAwesome;
+    src: url('../fonts/FontAwesome.otf');
+}
+@font-face {
+    font-family: fontawesome-webfont;
+    src: url('../fonts/fontawesome-webfont.ttf');
+}
+@font-face {
+    font-family: thaisanslite;
+    src: url('../fonts/thaisanslite_r1.otf');
+}
+@font-face {
+    font-family: Multicolore;
+    src: url('../fonts/Multicolore.otf');
+}
+@font-face {
+    font-family: RSU_Regular;
+    src: url('../fonts/RSU_Regular.ttf');
+}
+@font-face {
+    font-family: Quark-Bold;
+    src: url('../fonts/Quark-Bold.otf');
+    font-weight:400;
+}
+@font-face {
+    font-family: Quark-Light;
+    src: url('../fonts/Quark-Light.otf');
+}
+
+@font-face {
+    font-family: Melbourne;
+    src: url('../fonts/Melbourne regular basic.otf');
+}
+
+@font-face {
+    font-family: Bangna;
+    src: url('../fonts/bangna.ttf');
+}
+
+@font-face {
+    font-family: Thailite;
+    src: url('../fonts/thailite.ttf');
+}
+@font-face {
+    font-family: WDB_Bangna;
+    src: url('../fonts/WDB_Bangna.ttf');
+}
