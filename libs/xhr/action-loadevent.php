@@ -42,7 +42,7 @@
 </style>
 		<a href="/event_detail&eid=<?php echo $title['id']; ?>">
 		<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3 tranboxhover">
-				<img src=" libs/<?php echo $title['photo']; ?> " id="imgs" width="100%" />
+				<img src=" libs/<?php echo $title['photo']; ?> " width="100%" />
 				<p><?php 
 					echo explode("|",$title['headline'])[1];
 				?></P>
